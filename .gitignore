@@ -1,0 +1,5 @@
+# ignore the report directory in this example
+report/
+.DS_Store
+build/
+.gradle
